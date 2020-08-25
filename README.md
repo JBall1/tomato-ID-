@@ -1,5 +1,25 @@
+# Tomato ID
+- Whats the point?
+  1. To demonstrate a fun proof-of-concept and to show how useful machine learning can really be in our day to day lives!
 
 
+### Classes 
+1. Black Krim Tomatoes
+2. Cherry Tomatoes
+3. Cocktail Tomatoes
+4. Early Girl Tomatoes 
+5. Grape Tomatoes
+6. Green Beef Tomatoes
+7. Green Zebra Tomatoes
+8. Heirloom Tomatoes
+9. Hillbilly Tomatoes
+10. Kumato 
+11. Montserrat Tomatoes
+12. Pear Tomatoes
+13. Plum Tomatoes
+14. Red Beefsteak Tomatoes
+15. Roma Tomatoes
+16. San Marzano Tomatoes
 
 ### Credits
 1. [Credit for several chuncks of code and the bouding box code.](https://github.com/motlabs/iOS-Proejcts-with-ML-Models)
