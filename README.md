@@ -7,6 +7,11 @@
   1. To demonstrate a fun proof-of-concept and to show how useful machine learning can really be in our day to day lives!
 
 ---
+# On the App Store (Update Pending, the app currently uses image classification)
+
+[iOS App Store Link](https://apps.apple.com/us/app/tomato-id/id1525471410)
+
+---
 ## Demo
 (https://github.com/JBall1/tomato-ID-/) | <p align="center"><img src="Resources/ezgif-4-ccfc1cd68cb1.gif" width="200"/></p>
 
