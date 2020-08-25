@@ -7,8 +7,8 @@
   1. To demonstrate a fun proof-of-concept and to show how useful machine learning can really be in our day to day lives!
 
 ---
-| Name | DEMO | Note |
-| ---- | ---- | ---- |
+| Name | 
+| ---- | 
 | [Demo]|(https://github.com/JBall1/tomato-ID-/) | <p align="center"><img src="Resources/ezgif-4-ccfc1cd68cb1.gif" width="200"/></p>
  | - |
 
