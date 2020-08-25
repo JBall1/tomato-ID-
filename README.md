@@ -8,6 +8,10 @@
 
 ---
 
+| [ImageClassification-CoreML](https://github.com/JBall1/tomato-ID-/) | <p align="center"><img src="Resources/demo.gif" width="200"/></p> | - |
+
+---
+
 ### Classes 
 1. Black Krim Tomatoes
 2. Cherry Tomatoes
