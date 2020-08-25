@@ -30,3 +30,4 @@
 
 ### Credits
 1. [Credit for several chuncks of code and the bouding box code.](https://github.com/motlabs/iOS-Proejcts-with-ML-Models)
+2. [Annotations done in IBM Cloud Annotations](https://cloud.annotations.ai)
