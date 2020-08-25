@@ -1,7 +1,12 @@
 # Tomato ID
+
+## Overview
+ This model showcases object detection on iOS by detectin tomato variants, in particual 16 different types of tomato.
+
 - Whats the point?
   1. To demonstrate a fun proof-of-concept and to show how useful machine learning can really be in our day to day lives!
 
+---
 
 ### Classes 
 1. Black Krim Tomatoes
@@ -20,6 +25,8 @@
 14. Red Beefsteak Tomatoes
 15. Roma Tomatoes
 16. San Marzano Tomatoes
+
+---
 
 ### Credits
 1. [Credit for several chuncks of code and the bouding box code.](https://github.com/motlabs/iOS-Proejcts-with-ML-Models)
