@@ -8,7 +8,7 @@
 
 ---
 
-| [ImageClassification-CoreML](https://github.com/JBall1/tomato-ID-/) | <p align="center"><img src="Resources/demo.gif" width="200"/></p> | - |
+| [ImageClassification-CoreML](https://github.com/JBall1/tomato-ID-/) | <p align="center"><img src="Resources/ezgif-4-ccfc1cd68cb1.gif" width="200"/></p> | - |
 
 ---
 
