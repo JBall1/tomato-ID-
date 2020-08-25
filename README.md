@@ -7,7 +7,7 @@
   1. To demonstrate a fun proof-of-concept and to show how useful machine learning can really be in our day to day lives!
 
 ---
-# On the App Store (Update Pending, the app currently uses image classification)
+## On the App Store (Update Pending, the app currently uses image classification)
 
 [iOS App Store Link](https://apps.apple.com/us/app/tomato-id/id1525471410)
 
