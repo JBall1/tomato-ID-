@@ -1,7 +1,7 @@
 # Tomato ID
 
 ## Overview
- This model showcases object detection on iOS by detection tomato variants, in particual 16 different types of tomato.
+ This model showcases object detection on iOS by detection tomato variants, in particular 16 different types of tomato. 
 
 - Whats the point?
   1. To demonstrate a fun proof-of-concept and to show how useful machine learning can really be in our day to day lives!
